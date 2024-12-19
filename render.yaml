@@ -5,7 +5,7 @@ services:
     buildCommand: npm install
     startCommand: npm start
     plan: free
-    repo: git@github.com:ItchirMaissa/Render_Blueprints.git
+    repo: git@github.com:ItchirMaissa/Render_Blueprint.git
     region: frankfurt
     envVars:
       - key: DATABASE_URL
